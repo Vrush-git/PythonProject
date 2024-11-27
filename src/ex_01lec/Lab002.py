@@ -1,0 +1,1 @@
+print("Hello Vrush,Welcome to python day 1.")
